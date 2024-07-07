@@ -7,3 +7,5 @@
 -Para ejecutar el sistema debes pner:
 
 ```npm install react```
+
+Sistema de Registro 2
